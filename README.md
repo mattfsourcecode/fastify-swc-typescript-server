@@ -30,20 +30,20 @@ Runs the Jest test suite.
 pnpm run test
 ```
 
-### `Start`
-
-Runs the transpiled JavaScript code in the `dist` directory.
-
-```bash
-pnpm run start
-```
-
 ### `Build`
 
 Transpiles the TypeScript source files to JavaScript using SWC. The output is saved in the `dist` directory.
 
 ```bash
 pnpm run build
+```
+
+### `Start`
+
+Runs the transpiled JavaScript code in the `dist` directory.
+
+```bash
+pnpm run start
 ```
 
 ## Dependencies

@@ -6,8 +6,8 @@
   "scripts": {
     "dev": "nodemon --watch 'src/**/*.ts' --watch '__tests__/**/*.ts' --exec 'node -r @swc-node/register' src/index.ts",
     "test": "jest",
-    "start": "node dist/index.js",
-    "build": "swc src -d dist"
+    "build": "swc src -d dist",
+    "start": "node dist/index.js"
   },
   "keywords": [],
   "author": "@matt-development-work",
