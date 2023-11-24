@@ -4,6 +4,8 @@
 
 This project utilizes Fastify, TypeScript, and SWC to create a robust and efficient server. Fastify's scalability, TypeScript's strong typing and advanced features, and SWC's transpilation contribute to the server's performance. Notably, the `typescript` package is not a dependency, as SWC handles the transpilation independently. In development mode, the server updates quickly to reflect changes in source files or tests. In production, it operates on optimized JavaScript.
 
+This server template offers a highly advantageous platform for the swift development of [serverless functions](https://en.wikipedia.org/wiki/Serverless_computing), which are integral to modern cloud-based applications. These functions, executed in cloud environments, absolve developers from the complexities of managing server infrastructure, concentrating instead on coding. They react to events, such as HTTP requests or database changes, and automatically scale with the demand, making them ideal for fluctuating workloads.
+
 ## Scripts
 
 ### `Install`
