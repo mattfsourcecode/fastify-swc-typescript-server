@@ -10,7 +10,7 @@
     "start": "node dist/index.js"
   },
   "keywords": [],
-  "author": "@matt-development-work",
+  "author": "@mattfsourcecode",
   "license": "MIT",
   "dependencies": {
     "fastify": "^4.24.3"
