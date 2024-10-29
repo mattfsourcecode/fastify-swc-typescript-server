@@ -6,7 +6,7 @@ This project leverages Fastify, TypeScript, and SWC to build a high-performance,
 
 In **development mode**, the server updates instantly to reflect changes in source files or tests. In **production**, it operates on optimized JavaScript for better performance.
 
-This server template is also an ideal foundation for developing [serverless functions](https://en.wikipedia.org/wiki/Serverless_computing), which are critical in modern cloud-native applications. Serverless functions, running in cloud environments, allow developers to focus on writing code without managing infrastructure. These functions respond to events such as HTTP requests or database changes and automatically scale with demand, making them well-suited for dynamic workloads.
+This server template can be an ideal foundation for developing [serverless functions](https://en.wikipedia.org/wiki/Serverless_computing), which are advantageous in modern cloud-native applications. Serverless functions, running in cloud environments, allow developers to focus on writing code without managing infrastructure. These functions respond to events such as HTTP requests or database changes and automatically scale with demand.
 
 ## Scripts
 
@@ -152,3 +152,10 @@ import app from "./src/index.js";
 export const handler = awsLambdaFastify(app);
 await app.ready(); // Optimize cold starts
 ```
+
+<img width="300" alt="logo" src="https://github.com/user-attachments/assets/a6907512-87a4-45de-9188-cdc494dfe5a8">
+
+## Contributions and Issues
+
+Contributions are welcome! If you have ideas or improvements, please open an issue first for discussion before submitting a pull request.  
+You can report issues or start discussions here: [Open an issue](https://github.com/mattfsourcecode/fastify-swc-typescript-server/issues)
