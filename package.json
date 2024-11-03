@@ -13,19 +13,19 @@
   "author": "@mattfsourcecode",
   "license": "MIT",
   "dependencies": {
-    "fastify": "^4.28.1"
+    "fastify": "^5.1.0"
   },
   "devDependencies": {
     "@swc-node/jest": "^1.8.12",
     "@swc-node/register": "^1.10.9",
-    "@swc/cli": "^0.1.65",
-    "@swc/core": "^1.7.40",
+    "@swc/cli": "^0.5.0",
+    "@swc/core": "^1.7.42",
     "@swc/helpers": "^0.5.13",
     "@types/jest": "^29.5.14",
-    "@types/node": "^20.17.1",
+    "@types/node": "^22.8.7",
     "jest": "^29.7.0",
     "nodemon": "^3.1.7",
-    "rimraf": "^5.0.10",
+    "rimraf": "^6.0.1",
     "ts-node": "^10.9.2"
   }
 }
