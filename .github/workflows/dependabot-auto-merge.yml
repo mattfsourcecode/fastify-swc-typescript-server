@@ -29,8 +29,11 @@ jobs:
           node-version: "lts/*"
           cache: pnpm
 
+      # Install pnpm explicitly if the action setup doesn't work
       - name: Install pnpm
-        uses: pnpm/action-setup@v4
+        run: |
+          npm install -g pnpm
+          pnpm --version  # Confirm installation
 
       - name: Check for lockfile conflicts
         id: check-conflict
