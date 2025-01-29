@@ -1,0 +1,84 @@
+name: Dependabot Auto Merge and Resolve Lockfile Conflicts
+
+on:
+  pull_request:
+    branches:
+      - master
+    types:
+      - opened
+      - synchronize
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  resolve-conflicts:
+    if: github.event.pull_request.user.login == 'dependabot[bot]'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "lts/*"
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Check for lockfile conflicts
+        id: check-conflict
+        run: |
+          if git diff --name-only | grep 'pnpm-lock.yaml'; then
+            echo "Lockfile conflict detected."
+            echo "conflict=true" >> $GITHUB_ENV
+          else
+            echo "No lockfile conflict."
+            echo "conflict=false" >> $GITHUB_ENV
+          fi
+
+      - name: Resolve lockfile conflict
+        if: env.conflict == 'true'
+        run: |
+          echo "Deleting pnpm-lock.yaml..."
+          rm pnpm-lock.yaml
+          echo "Reinstalling dependencies..."
+          pnpm install
+
+      - name: Commit and push updated lockfile
+        if: env.conflict == 'true'
+        run: |
+          git config --global user.name "dependabot-bot"
+          git config --global user.email "dependabot@github.com"
+          git add pnpm-lock.yaml
+          git commit -m "fix: Resolve pnpm-lock.yaml conflicts"
+          git push origin ${{ github.event.pull_request.head.ref }}
+
+  auto-merge:
+    needs: resolve-conflicts
+    if: github.event.pull_request.user.login == 'dependabot[bot]' && github.job == 'resolve-conflicts' && github.event.pull_request.head.ref != 'null'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Fetch Dependabot metadata
+        id: metadata
+        uses: dependabot/fetch-metadata@v1
+        with:
+          github-token: "${{ secrets.GITHUB_TOKEN }}"
+
+      - name: Enable auto-merge for Dependabot PRs
+        run: gh pr merge --auto --merge "$PR_URL"
+        env:
+          PR_URL: ${{ github.event.pull_request.html_url }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
