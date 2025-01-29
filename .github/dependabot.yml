@@ -6,7 +6,7 @@ updates:
       interval: "daily"
     commit-message:
       prefix: "deps"
-    open-pull-requests-limit: 5
+    open-pull-requests-limit: 10
     labels:
       - "dependencies"
     allow:
