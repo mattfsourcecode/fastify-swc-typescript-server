@@ -65,7 +65,7 @@ jobs:
 
   auto-merge:
     needs: resolve-conflicts
-    if: github.event.pull_request.user.login == 'dependabot[bot]' && github.job == 'resolve-conflicts' && github.event.pull_request.head.ref != 'null'
+    if: github.event.pull_request.user.login == 'dependabot[bot]'
     runs-on: ubuntu-latest
 
     steps:
@@ -76,6 +76,7 @@ jobs:
           github-token: "${{ secrets.GITHUB_TOKEN }}"
 
       - name: Enable auto-merge for Dependabot PRs
-        run: gh pr merge --auto --merge ${{ github.event.pull_request.html_url }}
+        run: gh pr merge --auto --merge "$PR_URL"
         env:
+          PR_URL: ${{ github.event.pull_request.html_url }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
