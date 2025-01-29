@@ -1,5 +1,6 @@
 {
   "name": "fastify-swc-typescript-server",
+  "packageManager": "pnpm@9.15.4",
   "version": "1.0.0",
   "description": "A Fastify server leveraging SWC for transpilation and Jest for testing.",
   "main": "dist/index.js",
