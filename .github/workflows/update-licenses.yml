@@ -1,0 +1,64 @@
+name: Update Licenses on Dependency Changes
+
+on:
+  pull_request:
+    branches:
+      - "**"
+    paths:
+      - "package.json"
+      - "pnpm-lock.yaml"
+    types:
+      - opened
+      - synchronize
+      - reopened
+
+permissions:
+  contents: write
+  pull-requests: write
+  actions: write
+
+jobs:
+  update-licenses:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref || 'master' }}
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "lts/*"
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Generate licenses.json
+        run: |
+          pnpm add -g license-checker
+          license-checker --json > licenses.json
+
+      - name: Display licenses.json content
+        run: cat licenses.json
+
+      - name: Commit and push updated licenses
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add licenses.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: Update licenses.json"
+            git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
+            git push origin HEAD:${{ github.event.pull_request.head.ref }}
+          else
+            echo "No changes to commit."
+          fi
