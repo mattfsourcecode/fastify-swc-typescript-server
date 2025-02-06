@@ -65,17 +65,34 @@ jobs:
 
   auto-merge:
     needs: resolve-conflicts
-    if: github.event.pull_request.user.login == 'dependabot[bot]'
     runs-on: ubuntu-latest
 
     steps:
-      - name: Fetch Dependabot metadata
-        id: metadata
-        uses: dependabot/fetch-metadata@v1
+      - name: Mark auto-merge check for non-Dependabot PRs
+        if: github.event.pull_request.user.login != 'dependabot[bot]'
+        run: |
+          echo "Skipping dependabot-auto-merge for non-Dependabot PRs."
+          exit 0  # This prevents it from failing on non-Dependabot PRs
+
+      - name: Checkout PR branch
+        if: github.event.pull_request.user.login == 'dependabot[bot]'
+        uses: actions/checkout@v4
         with:
-          github-token: "${{ secrets.GITHUB_TOKEN }}"
+          ref: ${{ github.event.pull_request.head.ref }}
+          fetch-depth: 0
+
+      - name: Pull latest changes from PR branch
+        if: github.event.pull_request.user.login == 'dependabot[bot]'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git fetch origin ${{ github.event.pull_request.head.ref }}
+          git rebase origin/${{ github.event.pull_request.head.ref }} || git rebase --abort
+          git push origin HEAD --force-with-lease
 
       - name: Enable auto-merge for Dependabot PRs
+        if: github.event.pull_request.user.login == 'dependabot[bot]'
         run: gh pr merge --auto --merge "$PR_URL"
         env:
           PR_URL: ${{ github.event.pull_request.html_url }}
