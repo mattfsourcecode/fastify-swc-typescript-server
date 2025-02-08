@@ -39,15 +39,13 @@ jobs:
         id: check-conflict
         run: |
           if git diff --name-only | grep 'pnpm-lock.yaml'; then
-            echo "Lockfile conflict detected."
-            echo "conflict=true" >> $GITHUB_ENV
+            echo "conflict=true" >> $GITHUB_OUTPUT
           else
-            echo "No lockfile conflict."
-            echo "conflict=false" >> $GITHUB_ENV
+            echo "conflict=false" >> $GITHUB_OUTPUT
           fi
 
       - name: Resolve lockfile conflict
-        if: env.conflict == 'true'
+        if: steps.check-conflict.outputs.conflict == 'true'
         run: |
           echo "Deleting pnpm-lock.yaml..."
           rm pnpm-lock.yaml
@@ -55,7 +53,7 @@ jobs:
           pnpm install
 
       - name: Commit and push updated lockfile
-        if: env.conflict == 'true'
+        if: steps.check-conflict.outputs.conflict == 'true'
         run: |
           git config --global user.name "dependabot-bot"
           git config --global user.email "dependabot@github.com"
@@ -72,7 +70,7 @@ jobs:
         if: github.event.pull_request.user.login != 'dependabot[bot]'
         run: |
           echo "Skipping dependabot-auto-merge for non-Dependabot PRs."
-          exit 0  # This prevents it from failing on non-Dependabot PRs
+          exit 0
 
       - name: Checkout PR branch
         if: github.event.pull_request.user.login == 'dependabot[bot]'
