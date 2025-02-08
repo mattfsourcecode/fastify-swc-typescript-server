@@ -1,0 +1,48 @@
+name: Update pnpm Version and Auto-Merge
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-pnpm:
+    runs-on: ubuntu-latest
+
+    outputs:
+      pull_request_url: ${{ steps.create-pr.outputs.pull-request-url }}
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v3
+
+      - name: Install Corepack
+        run: npm install -g corepack
+
+      - name: Update pnpm Version
+        run: corepack up
+
+      - name: Create a pull request
+        id: create-pr
+        uses: peter-evans/create-pull-request@v5
+        with:
+          branch: update-pnpm-version
+          title: "chore: Update pnpm version via Corepack"
+          body: "This pull request updates the pnpm version in package.json using Corepack."
+          labels: update, dependencies
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+  auto-merge:
+    needs: update-pnpm
+    runs-on: ubuntu-latest
+    if: needs.update-pnpm.outputs.pull_request_url != ''
+
+    steps:
+      - name: Enable auto-merge for the pull request
+        run: gh pr merge --auto --merge "${{ needs.update-pnpm.outputs.pull_request_url }}"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
