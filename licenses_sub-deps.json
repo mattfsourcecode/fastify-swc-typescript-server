@@ -603,7 +603,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/cli",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/cli/LICENSE"
   },
-  "@swc/core-linux-x64-gnu@1.11.6": {
+  "@swc/core-linux-x64-gnu@1.11.7": {
     "licenses": "Apache-2.0 AND MIT",
     "repository": "https://github.com/swc-project/swc",
     "publisher": "강동윤",
@@ -611,7 +611,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/core-linux-x64-gnu",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/core-linux-x64-gnu/README.md"
   },
-  "@swc/core-linux-x64-musl@1.11.6": {
+  "@swc/core-linux-x64-musl@1.11.7": {
     "licenses": "Apache-2.0 AND MIT",
     "repository": "https://github.com/swc-project/swc",
     "publisher": "강동윤",
@@ -619,7 +619,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/core-linux-x64-musl",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/core-linux-x64-musl/README.md"
   },
-  "@swc/core@1.11.6": {
+  "@swc/core@1.11.7": {
     "licenses": "Apache-2.0",
     "repository": "https://github.com/swc-project/swc",
     "publisher": "강동윤",
@@ -885,7 +885,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/acorn-walk",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/acorn-walk/LICENSE"
   },
-  "acorn@8.14.0": {
+  "acorn@8.14.1": {
     "licenses": "MIT",
     "repository": "https://github.com/acornjs/acorn",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/acorn",
