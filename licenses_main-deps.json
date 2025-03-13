@@ -1,5 +1,5 @@
 {
-  "@swc-node/jest@1.8.12": {
+  "@swc-node/jest@1.8.13": {
     "licenses": "MIT",
     "repository": "https://github.com/swc-project/swc-node",
     "publisher": "LongYinan",
@@ -7,7 +7,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc-node/jest",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc-node/jest/LICENSE"
   },
-  "@swc-node/register@1.10.9": {
+  "@swc-node/register@1.10.10": {
     "licenses": "MIT",
     "repository": "https://github.com/swc-project/swc-node",
     "publisher": "LongYinan",

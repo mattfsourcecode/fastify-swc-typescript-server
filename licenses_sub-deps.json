@@ -273,7 +273,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@fastify/ajv-compiler",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@fastify/ajv-compiler/LICENSE"
   },
-  "@fastify/error@4.0.0": {
+  "@fastify/error@4.1.0": {
     "licenses": "MIT",
     "repository": "https://github.com/fastify/fastify-error",
     "publisher": "Tomas Della Vedova",
@@ -515,13 +515,13 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@nodelib/fs.walk",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@nodelib/fs.walk/LICENSE"
   },
-  "@oxc-resolver/binding-linux-x64-gnu@1.12.0": {
+  "@oxc-resolver/binding-linux-x64-gnu@5.0.0": {
     "licenses": "MIT",
     "repository": "https://github.com/oxc-project/oxc-resolver",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@oxc-resolver/binding-linux-x64-gnu",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@oxc-resolver/binding-linux-x64-gnu/README.md"
   },
-  "@oxc-resolver/binding-linux-x64-musl@1.12.0": {
+  "@oxc-resolver/binding-linux-x64-musl@5.0.0": {
     "licenses": "MIT",
     "repository": "https://github.com/oxc-project/oxc-resolver",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@oxc-resolver/binding-linux-x64-musl",
@@ -571,7 +571,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc-node/core",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc-node/core/LICENSE"
   },
-  "@swc-node/jest@1.8.12": {
+  "@swc-node/jest@1.8.13": {
     "licenses": "MIT",
     "repository": "https://github.com/swc-project/swc-node",
     "publisher": "LongYinan",
@@ -579,7 +579,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc-node/jest",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc-node/jest/LICENSE"
   },
-  "@swc-node/register@1.10.9": {
+  "@swc-node/register@1.10.10": {
     "licenses": "MIT",
     "repository": "https://github.com/swc-project/swc-node",
     "publisher": "LongYinan",
@@ -1176,7 +1176,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/camelcase",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/camelcase/license"
   },
-  "caniuse-lite@1.0.30001703": {
+  "caniuse-lite@1.0.30001704": {
     "licenses": "CC-BY-4.0",
     "repository": "https://github.com/browserslist/caniuse-lite",
     "publisher": "Ben Briggs",
@@ -1427,7 +1427,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/eastasianwidth",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/eastasianwidth/README.md"
   },
-  "electron-to-chromium@1.5.114": {
+  "electron-to-chromium@1.5.116": {
     "licenses": "ISC",
     "repository": "https://github.com/kilian/electron-to-chromium",
     "publisher": "Kilian Valkhof",
@@ -2614,7 +2614,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/osenv",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/osenv/LICENSE"
   },
-  "oxc-resolver@1.12.0": {
+  "oxc-resolver@5.0.0": {
     "licenses": "MIT",
     "repository": "https://github.com/oxc-project/oxc-resolver",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/oxc-resolver",
