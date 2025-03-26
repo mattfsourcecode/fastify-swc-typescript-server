@@ -707,7 +707,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/babel__template",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/babel__template/LICENSE"
   },
-  "@types/babel__traverse@7.20.6": {
+  "@types/babel__traverse@7.20.7": {
     "licenses": "MIT",
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/babel__traverse",
@@ -1427,7 +1427,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/eastasianwidth",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/eastasianwidth/README.md"
   },
-  "electron-to-chromium@1.5.123": {
+  "electron-to-chromium@1.5.124": {
     "licenses": "ISC",
     "repository": "https://github.com/kilian/electron-to-chromium",
     "publisher": "Kilian Valkhof",
@@ -1603,7 +1603,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/LICENSE"
   },
-  "fastify@5.2.1": {
+  "fastify@5.2.2": {
     "licenses": "MIT",
     "repository": "https://github.com/fastify/fastify",
     "publisher": "Matteo Collina",
@@ -3311,8 +3311,8 @@
     "publisher": "Sindre Sorhus",
     "email": "sindresorhus@gmail.com",
     "url": "sindresorhus.com",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/strip-ansi",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/strip-ansi/license"
+    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/strip-ansi-cjs",
+    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/strip-ansi-cjs/license"
   },
   "strip-bom@4.0.0": {
     "licenses": "MIT",
