@@ -749,7 +749,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/jest",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/jest/LICENSE"
   },
-  "@types/node@22.13.17": {
+  "@types/node@22.14.0": {
     "licenses": "MIT",
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/node",
@@ -1176,7 +1176,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/camelcase",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/camelcase/license"
   },
-  "caniuse-lite@1.0.30001707": {
+  "caniuse-lite@1.0.30001709": {
     "licenses": "CC-BY-4.0",
     "repository": "https://github.com/browserslist/caniuse-lite",
     "publisher": "Ben Briggs",
@@ -1427,7 +1427,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/eastasianwidth",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/eastasianwidth/README.md"
   },
-  "electron-to-chromium@1.5.129": {
+  "electron-to-chromium@1.5.130": {
     "licenses": "ISC",
     "repository": "https://github.com/kilian/electron-to-chromium",
     "publisher": "Kilian Valkhof",
@@ -3528,7 +3528,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/undefsafe",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/undefsafe/LICENSE"
   },
-  "undici-types@6.20.0": {
+  "undici-types@6.21.0": {
     "licenses": "MIT",
     "repository": "https://github.com/nodejs/undici",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/undici-types",
