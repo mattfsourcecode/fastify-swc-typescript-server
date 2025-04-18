@@ -15,7 +15,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc-node/register",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc-node/register/LICENSE"
   },
-  "@swc/cli@0.7.2": {
+  "@swc/cli@0.7.3": {
     "licenses": "MIT",
     "repository": "https://github.com/swc-project/pkgs",
     "publisher": "강동윤",
@@ -56,7 +56,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/LICENSE"
   },
-  "fastify@5.3.0": {
+  "fastify@5.3.1": {
     "licenses": "MIT",
     "repository": "https://github.com/fastify/fastify",
     "publisher": "Matteo Collina",
