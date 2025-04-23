@@ -2501,7 +2501,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/node-releases",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/node-releases/LICENSE"
   },
-  "nodemon@3.1.9": {
+  "nodemon@3.1.10": {
     "licenses": "MIT",
     "repository": "https://github.com/remy/nodemon",
     "publisher": "Remy Sharp",
