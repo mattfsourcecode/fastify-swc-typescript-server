@@ -1428,7 +1428,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/eastasianwidth",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/eastasianwidth/README.md"
   },
-  "electron-to-chromium@1.5.155": {
+  "electron-to-chromium@1.5.157": {
     "licenses": "ISC",
     "repository": "https://github.com/kilian/electron-to-chromium",
     "publisher": "Kilian Valkhof",
@@ -2051,7 +2051,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/istanbul-reports",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/istanbul-reports/LICENSE"
   },
-  "jackspeak@4.1.0": {
+  "jackspeak@4.1.1": {
     "licenses": "BlueOak-1.0.0",
     "repository": "https://github.com/isaacs/jackspeak",
     "publisher": "Isaac Z. Schlueter",
