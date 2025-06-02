@@ -273,7 +273,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@fastify/ajv-compiler",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@fastify/ajv-compiler/LICENSE"
   },
-  "@fastify/error@4.1.0": {
+  "@fastify/error@4.2.0": {
     "licenses": "MIT",
     "repository": "https://github.com/fastify/fastify-error",
     "publisher": "Tomas Della Vedova",
@@ -750,7 +750,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/jest",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/jest/LICENSE"
   },
-  "@types/node@22.15.28": {
+  "@types/node@22.15.29": {
     "licenses": "MIT",
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/node",
