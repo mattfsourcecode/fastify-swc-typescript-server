@@ -14,10 +14,10 @@ importers:
     devDependencies:
       '@swc-node/jest':
         specifier: ^1.8.13
-        version: 1.8.13(@swc/core@1.11.31(@swc/helpers@0.5.17))(@swc/types@0.1.21)(typescript@5.7.3)
+        version: 1.8.13(@swc/core@1.11.31(@swc/helpers@0.5.17))(@swc/types@0.1.22)(typescript@5.7.3)
       '@swc-node/register':
         specifier: ^1.10.10
-        version: 1.10.10(@swc/core@1.11.31(@swc/helpers@0.5.17))(@swc/types@0.1.21)(typescript@5.7.3)
+        version: 1.10.10(@swc/core@1.11.31(@swc/helpers@0.5.17))(@swc/types@0.1.22)(typescript@5.7.3)
       '@swc/cli':
         specifier: ^0.7.7
         version: 0.7.7(@swc/core@1.11.31(@swc/helpers@0.5.17))
@@ -738,8 +738,8 @@ packages:
   '@swc/helpers@0.5.17':
     resolution: {integrity: sha512-5IKx/Y13RsYd+sauPb2x+U/xZikHjolzfuDgTAl/Tdf3Q8rslRvC19NKDLgAJQ6wsqADk10ntlv08nPFw/gO/A==}
 
-  '@swc/types@0.1.21':
-    resolution: {integrity: sha512-2YEtj5HJVbKivud9N4bpPBAyZhj4S2Ipe5LkUG94alTpr7in/GU/EARgPAd3BwU+YOmFVJC2+kjqhGRi3r0ZpQ==}
+  '@swc/types@0.1.22':
+    resolution: {integrity: sha512-D13mY/ZA4PPEFSy6acki9eBT/3WgjMoRqNcdpIvjaYLQ44Xk5BdaL7UkDxAh6Z9UOe7tCCp67BVmZCojYp9owg==}
 
   '@szmarczak/http-timer@5.0.1':
     resolution: {integrity: sha512-+PmQX0PiAYPMeVYe237LJAYvOMYW1j2rH5YROyS3b4CTVJum34HfRvKvAzozHAQG0TnHNdUfY9nCeUyRAs//cw==}
@@ -2981,25 +2981,25 @@ snapshots:
     dependencies:
       '@sinonjs/commons': 3.0.1
 
-  '@swc-node/core@1.13.3(@swc/core@1.11.31(@swc/helpers@0.5.17))(@swc/types@0.1.21)':
+  '@swc-node/core@1.13.3(@swc/core@1.11.31(@swc/helpers@0.5.17))(@swc/types@0.1.22)':
     dependencies:
       '@swc/core': 1.11.31(@swc/helpers@0.5.17)
-      '@swc/types': 0.1.21
+      '@swc/types': 0.1.22
 
-  '@swc-node/jest@1.8.13(@swc/core@1.11.31(@swc/helpers@0.5.17))(@swc/types@0.1.21)(typescript@5.7.3)':
+  '@swc-node/jest@1.8.13(@swc/core@1.11.31(@swc/helpers@0.5.17))(@swc/types@0.1.22)(typescript@5.7.3)':
     dependencies:
       '@node-rs/xxhash': 1.7.6
-      '@swc-node/core': 1.13.3(@swc/core@1.11.31(@swc/helpers@0.5.17))(@swc/types@0.1.21)
-      '@swc-node/register': 1.10.10(@swc/core@1.11.31(@swc/helpers@0.5.17))(@swc/types@0.1.21)(typescript@5.7.3)
+      '@swc-node/core': 1.13.3(@swc/core@1.11.31(@swc/helpers@0.5.17))(@swc/types@0.1.22)
+      '@swc-node/register': 1.10.10(@swc/core@1.11.31(@swc/helpers@0.5.17))(@swc/types@0.1.22)(typescript@5.7.3)
       '@swc/core': 1.11.31(@swc/helpers@0.5.17)
-      '@swc/types': 0.1.21
+      '@swc/types': 0.1.22
       typescript: 5.7.3
     transitivePeerDependencies:
       - supports-color
 
-  '@swc-node/register@1.10.10(@swc/core@1.11.31(@swc/helpers@0.5.17))(@swc/types@0.1.21)(typescript@5.7.3)':
+  '@swc-node/register@1.10.10(@swc/core@1.11.31(@swc/helpers@0.5.17))(@swc/types@0.1.22)(typescript@5.7.3)':
     dependencies:
-      '@swc-node/core': 1.13.3(@swc/core@1.11.31(@swc/helpers@0.5.17))(@swc/types@0.1.21)
+      '@swc-node/core': 1.13.3(@swc/core@1.11.31(@swc/helpers@0.5.17))(@swc/types@0.1.22)
       '@swc-node/sourcemap-support': 0.5.1
       '@swc/core': 1.11.31(@swc/helpers@0.5.17)
       colorette: 2.0.20
@@ -3063,7 +3063,7 @@ snapshots:
   '@swc/core@1.11.31(@swc/helpers@0.5.17)':
     dependencies:
       '@swc/counter': 0.1.3
-      '@swc/types': 0.1.21
+      '@swc/types': 0.1.22
     optionalDependencies:
       '@swc/core-darwin-arm64': 1.11.31
       '@swc/core-darwin-x64': 1.11.31
@@ -3083,7 +3083,7 @@ snapshots:
     dependencies:
       tslib: 2.8.1
 
-  '@swc/types@0.1.21':
+  '@swc/types@0.1.22':
     dependencies:
       '@swc/counter': 0.1.3
 
