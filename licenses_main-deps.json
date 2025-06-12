@@ -45,7 +45,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/jest",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/jest/LICENSE"
   },
-  "@types/node@24.0.0": {
+  "@types/node@24.0.1": {
     "licenses": "MIT",
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/node",
@@ -57,7 +57,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/LICENSE"
   },
-  "fastify@5.3.3": {
+  "fastify@5.4.0": {
     "licenses": "MIT",
     "repository": "https://github.com/fastify/fastify",
     "publisher": "Matteo Collina",
