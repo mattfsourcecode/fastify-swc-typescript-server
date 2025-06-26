@@ -15,7 +15,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/code-frame",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/code-frame/LICENSE"
   },
-  "@babel/compat-data@7.27.5": {
+  "@babel/compat-data@7.27.7": {
     "licenses": "MIT",
     "repository": "https://github.com/babel/babel",
     "publisher": "The Babel Team",
@@ -23,7 +23,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/compat-data",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/compat-data/LICENSE"
   },
-  "@babel/core@7.27.4": {
+  "@babel/core@7.27.7": {
     "licenses": "MIT",
     "repository": "https://github.com/babel/babel",
     "publisher": "The Babel Team",
@@ -103,7 +103,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/helpers",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/helpers/LICENSE"
   },
-  "@babel/parser@7.27.5": {
+  "@babel/parser@7.27.7": {
     "licenses": "MIT",
     "repository": "https://github.com/babel/babel",
     "publisher": "The Babel Team",
@@ -233,7 +233,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/template",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/template/LICENSE"
   },
-  "@babel/traverse@7.27.4": {
+  "@babel/traverse@7.27.7": {
     "licenses": "MIT",
     "repository": "https://github.com/babel/babel",
     "publisher": "The Babel Team",
@@ -241,7 +241,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/traverse",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/traverse/LICENSE"
   },
-  "@babel/types@7.27.6": {
+  "@babel/types@7.27.7": {
     "licenses": "MIT",
     "repository": "https://github.com/babel/babel",
     "publisher": "The Babel Team",
@@ -641,7 +641,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/cli",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/cli/LICENSE"
   },
-  "@swc/core-linux-x64-gnu@1.12.6": {
+  "@swc/core-linux-x64-gnu@1.12.7": {
     "licenses": "Apache-2.0 AND MIT",
     "repository": "https://github.com/swc-project/swc",
     "publisher": "강동윤",
@@ -649,7 +649,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/core-linux-x64-gnu",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/core-linux-x64-gnu/README.md"
   },
-  "@swc/core-linux-x64-musl@1.12.6": {
+  "@swc/core-linux-x64-musl@1.12.7": {
     "licenses": "Apache-2.0 AND MIT",
     "repository": "https://github.com/swc-project/swc",
     "publisher": "강동윤",
@@ -657,7 +657,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/core-linux-x64-musl",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/core-linux-x64-musl/README.md"
   },
-  "@swc/core@1.12.6": {
+  "@swc/core@1.12.7": {
     "licenses": "Apache-2.0",
     "repository": "https://github.com/swc-project/swc",
     "publisher": "강동윤",
@@ -1473,7 +1473,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/eastasianwidth",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/eastasianwidth/README.md"
   },
-  "electron-to-chromium@1.5.174": {
+  "electron-to-chromium@1.5.176": {
     "licenses": "ISC",
     "repository": "https://github.com/kilian/electron-to-chromium",
     "publisher": "Kilian Valkhof",
@@ -3627,8 +3627,8 @@
     "publisher": "Sindre Sorhus",
     "email": "sindresorhus@gmail.com",
     "url": "https://sindresorhus.com",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/wrap-ansi",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/wrap-ansi/license"
+    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/wrap-ansi-cjs",
+    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/wrap-ansi-cjs/license"
   },
   "wrappy@1.0.2": {
     "licenses": "ISC",
