@@ -1473,7 +1473,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/eastasianwidth",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/eastasianwidth/README.md"
   },
-  "electron-to-chromium@1.5.176": {
+  "electron-to-chromium@1.5.177": {
     "licenses": "ISC",
     "repository": "https://github.com/kilian/electron-to-chromium",
     "publisher": "Kilian Valkhof",
@@ -3324,8 +3324,8 @@
     "publisher": "Sindre Sorhus",
     "email": "sindresorhus@gmail.com",
     "url": "sindresorhus.com",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/strip-ansi",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/strip-ansi/license"
+    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/strip-ansi-cjs",
+    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/strip-ansi-cjs/license"
   },
   "strip-bom@4.0.0": {
     "licenses": "MIT",
@@ -3627,8 +3627,8 @@
     "publisher": "Sindre Sorhus",
     "email": "sindresorhus@gmail.com",
     "url": "https://sindresorhus.com",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/wrap-ansi-cjs",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/wrap-ansi-cjs/license"
+    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/wrap-ansi",
+    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/wrap-ansi/license"
   },
   "wrappy@1.0.2": {
     "licenses": "ISC",
