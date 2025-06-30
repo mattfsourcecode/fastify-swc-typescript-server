@@ -440,9 +440,9 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/types",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/types/LICENSE"
   },
-  "@jridgewell/gen-mapping@0.3.8": {
+  "@jridgewell/gen-mapping@0.3.10": {
     "licenses": "MIT",
-    "repository": "https://github.com/jridgewell/gen-mapping",
+    "repository": "https://github.com/jridgewell/sourcemaps",
     "publisher": "Justin Ridgewell",
     "email": "justin@ridgewell.name",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jridgewell/gen-mapping",
@@ -456,18 +456,11 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jridgewell/resolve-uri",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jridgewell/resolve-uri/LICENSE"
   },
-  "@jridgewell/set-array@1.2.1": {
+  "@jridgewell/sourcemap-codec@1.5.2": {
     "licenses": "MIT",
-    "repository": "https://github.com/jridgewell/set-array",
+    "repository": "https://github.com/jridgewell/sourcemaps",
     "publisher": "Justin Ridgewell",
     "email": "justin@ridgewell.name",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jridgewell/set-array",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jridgewell/set-array/LICENSE"
-  },
-  "@jridgewell/sourcemap-codec@1.5.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/jridgewell/sourcemap-codec",
-    "publisher": "Rich Harris",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jridgewell/sourcemap-codec",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jridgewell/sourcemap-codec/LICENSE"
   },
@@ -782,7 +775,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/jest",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/jest/LICENSE"
   },
-  "@types/node@24.0.4": {
+  "@types/node@24.0.7": {
     "licenses": "MIT",
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/node",
@@ -2508,7 +2501,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/ms",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/ms/license.md"
   },
-  "napi-postinstall@0.2.4": {
+  "napi-postinstall@0.2.5": {
     "licenses": "MIT",
     "repository": "https://github.com/un-ts/napi-postinstall",
     "publisher": "JounQin",
@@ -3315,8 +3308,8 @@
     "publisher": "Sindre Sorhus",
     "email": "sindresorhus@gmail.com",
     "url": "sindresorhus.com",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/string-width",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/string-width/license"
+    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/string-width-cjs",
+    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/string-width-cjs/license"
   },
   "strip-ansi@6.0.1": {
     "licenses": "MIT",
@@ -3460,13 +3453,13 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/toad-cache",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/toad-cache/LICENSE"
   },
-  "token-types@6.0.0": {
+  "token-types@6.0.3": {
     "licenses": "MIT",
     "repository": "https://github.com/Borewit/token-types",
     "publisher": "Borewit",
     "url": "https://github.com/Borewit",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/token-types",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/token-types/LICENSE"
+    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/token-types/LICENSE.txt"
   },
   "touch@3.1.1": {
     "licenses": "ISC",
