@@ -440,7 +440,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/types",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/types/LICENSE"
   },
-  "@jridgewell/gen-mapping@0.3.10": {
+  "@jridgewell/gen-mapping@0.3.11": {
     "licenses": "MIT",
     "repository": "https://github.com/jridgewell/sourcemaps",
     "publisher": "Justin Ridgewell",
@@ -456,7 +456,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jridgewell/resolve-uri",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jridgewell/resolve-uri/LICENSE"
   },
-  "@jridgewell/sourcemap-codec@1.5.2": {
+  "@jridgewell/sourcemap-codec@1.5.3": {
     "licenses": "MIT",
     "repository": "https://github.com/jridgewell/sourcemaps",
     "publisher": "Justin Ridgewell",
@@ -634,7 +634,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/cli",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/cli/LICENSE"
   },
-  "@swc/core-linux-x64-gnu@1.12.7": {
+  "@swc/core-linux-x64-gnu@1.12.9": {
     "licenses": "Apache-2.0 AND MIT",
     "repository": "https://github.com/swc-project/swc",
     "publisher": "강동윤",
@@ -642,7 +642,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/core-linux-x64-gnu",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/core-linux-x64-gnu/README.md"
   },
-  "@swc/core-linux-x64-musl@1.12.7": {
+  "@swc/core-linux-x64-musl@1.12.9": {
     "licenses": "Apache-2.0 AND MIT",
     "repository": "https://github.com/swc-project/swc",
     "publisher": "강동윤",
@@ -650,7 +650,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/core-linux-x64-musl",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/core-linux-x64-musl/README.md"
   },
-  "@swc/core@1.12.7": {
+  "@swc/core@1.12.9": {
     "licenses": "Apache-2.0",
     "repository": "https://github.com/swc-project/swc",
     "publisher": "강동윤",
@@ -775,7 +775,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/jest",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/jest/LICENSE"
   },
-  "@types/node@24.0.7": {
+  "@types/node@24.0.8": {
     "licenses": "MIT",
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/node",
@@ -1466,7 +1466,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/eastasianwidth",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/eastasianwidth/README.md"
   },
-  "electron-to-chromium@1.5.177": {
+  "electron-to-chromium@1.5.178": {
     "licenses": "ISC",
     "repository": "https://github.com/kilian/electron-to-chromium",
     "publisher": "Kilian Valkhof",
@@ -3308,8 +3308,8 @@
     "publisher": "Sindre Sorhus",
     "email": "sindresorhus@gmail.com",
     "url": "sindresorhus.com",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/string-width-cjs",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/string-width-cjs/license"
+    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/string-width",
+    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/string-width/license"
   },
   "strip-ansi@6.0.1": {
     "licenses": "MIT",
