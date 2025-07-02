@@ -15,7 +15,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/code-frame",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/code-frame/LICENSE"
   },
-  "@babel/compat-data@7.27.7": {
+  "@babel/compat-data@7.28.0": {
     "licenses": "MIT",
     "repository": "https://github.com/babel/babel",
     "publisher": "The Babel Team",
@@ -23,7 +23,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/compat-data",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/compat-data/LICENSE"
   },
-  "@babel/core@7.27.7": {
+  "@babel/core@7.28.0": {
     "licenses": "MIT",
     "repository": "https://github.com/babel/babel",
     "publisher": "The Babel Team",
@@ -31,7 +31,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/core",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/core/LICENSE"
   },
-  "@babel/generator@7.27.5": {
+  "@babel/generator@7.28.0": {
     "licenses": "MIT",
     "repository": "https://github.com/babel/babel",
     "publisher": "The Babel Team",
@@ -46,6 +46,14 @@
     "url": "https://babel.dev/team",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/helper-compilation-targets",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/helper-compilation-targets/LICENSE"
+  },
+  "@babel/helper-globals@7.28.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/helper-globals",
+    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/helper-globals/LICENSE"
   },
   "@babel/helper-module-imports@7.27.1": {
     "licenses": "MIT",
@@ -103,7 +111,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/helpers",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/helpers/LICENSE"
   },
-  "@babel/parser@7.27.7": {
+  "@babel/parser@7.28.0": {
     "licenses": "MIT",
     "repository": "https://github.com/babel/babel",
     "publisher": "The Babel Team",
@@ -233,7 +241,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/template",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/template/LICENSE"
   },
-  "@babel/traverse@7.27.7": {
+  "@babel/traverse@7.28.0": {
     "licenses": "MIT",
     "repository": "https://github.com/babel/babel",
     "publisher": "The Babel Team",
@@ -241,7 +249,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/traverse",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/traverse/LICENSE"
   },
-  "@babel/types@7.27.7": {
+  "@babel/types@7.28.0": {
     "licenses": "MIT",
     "repository": "https://github.com/babel/babel",
     "publisher": "The Babel Team",
@@ -440,7 +448,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/types",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/types/LICENSE"
   },
-  "@jridgewell/gen-mapping@0.3.11": {
+  "@jridgewell/gen-mapping@0.3.12": {
     "licenses": "MIT",
     "repository": "https://github.com/jridgewell/sourcemaps",
     "publisher": "Justin Ridgewell",
@@ -456,7 +464,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jridgewell/resolve-uri",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jridgewell/resolve-uri/LICENSE"
   },
-  "@jridgewell/sourcemap-codec@1.5.3": {
+  "@jridgewell/sourcemap-codec@1.5.4": {
     "licenses": "MIT",
     "repository": "https://github.com/jridgewell/sourcemaps",
     "publisher": "Justin Ridgewell",
@@ -775,7 +783,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/jest",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/jest/LICENSE"
   },
-  "@types/node@24.0.8": {
+  "@types/node@24.0.10": {
     "licenses": "MIT",
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/node",
@@ -1809,15 +1817,6 @@
     "url": "https://blog.izs.me/",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/glob",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/glob/LICENSE"
-  },
-  "globals@11.12.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/sindresorhus/globals",
-    "publisher": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "sindresorhus.com",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/globals",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/globals/license"
   },
   "got@13.0.0": {
     "licenses": "MIT",
@@ -3317,8 +3316,8 @@
     "publisher": "Sindre Sorhus",
     "email": "sindresorhus@gmail.com",
     "url": "sindresorhus.com",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/strip-ansi-cjs",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/strip-ansi-cjs/license"
+    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/strip-ansi",
+    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/strip-ansi/license"
   },
   "strip-bom@4.0.0": {
     "licenses": "MIT",
