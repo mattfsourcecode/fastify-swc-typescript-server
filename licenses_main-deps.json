@@ -65,7 +65,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/fastify",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/fastify/LICENSE"
   },
-  "jest@30.0.3": {
+  "jest@30.0.4": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest",
