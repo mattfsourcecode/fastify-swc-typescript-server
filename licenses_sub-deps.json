@@ -480,19 +480,19 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jridgewell/trace-mapping",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jridgewell/trace-mapping/LICENSE"
   },
-  "@napi-rs/nice-linux-x64-gnu@1.0.2": {
+  "@napi-rs/nice-linux-x64-gnu@1.0.4": {
     "licenses": "MIT",
     "repository": "https://github.com/Brooooooklyn/nice",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@napi-rs/nice-linux-x64-gnu",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@napi-rs/nice-linux-x64-gnu/README.md"
   },
-  "@napi-rs/nice-linux-x64-musl@1.0.2": {
+  "@napi-rs/nice-linux-x64-musl@1.0.4": {
     "licenses": "MIT",
     "repository": "https://github.com/Brooooooklyn/nice",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@napi-rs/nice-linux-x64-musl",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@napi-rs/nice-linux-x64-musl/README.md"
   },
-  "@napi-rs/nice@1.0.2": {
+  "@napi-rs/nice@1.0.4": {
     "licenses": "MIT",
     "repository": "https://github.com/Brooooooklyn/nice",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@napi-rs/nice",
