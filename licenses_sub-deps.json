@@ -814,7 +814,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@ungap/structured-clone",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@ungap/structured-clone/LICENSE"
   },
-  "@unrs/resolver-binding-linux-x64-gnu@1.10.1": {
+  "@unrs/resolver-binding-linux-x64-gnu@1.11.0": {
     "licenses": "MIT",
     "repository": "https://github.com/unrs/unrs-resolver",
     "publisher": "JounQin",
@@ -823,7 +823,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@unrs/resolver-binding-linux-x64-gnu",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@unrs/resolver-binding-linux-x64-gnu/README.md"
   },
-  "@unrs/resolver-binding-linux-x64-musl@1.10.1": {
+  "@unrs/resolver-binding-linux-x64-musl@1.11.0": {
     "licenses": "MIT",
     "repository": "https://github.com/unrs/unrs-resolver",
     "publisher": "JounQin",
@@ -1235,7 +1235,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/camelcase",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/camelcase/license"
   },
-  "caniuse-lite@1.0.30001726": {
+  "caniuse-lite@1.0.30001727": {
     "licenses": "CC-BY-4.0",
     "repository": "https://github.com/browserslist/caniuse-lite",
     "publisher": "Ben Briggs",
@@ -1266,7 +1266,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/chokidar",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/chokidar/LICENSE"
   },
-  "ci-info@4.2.0": {
+  "ci-info@4.3.0": {
     "licenses": "MIT",
     "repository": "https://github.com/watson/ci-info",
     "publisher": "Thomas Watson Steen",
@@ -3548,7 +3548,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/undici-types",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/undici-types/LICENSE"
   },
-  "unrs-resolver@1.10.1": {
+  "unrs-resolver@1.11.0": {
     "licenses": "MIT",
     "repository": "https://github.com/unrs/unrs-resolver",
     "publisher": "JounQin",
