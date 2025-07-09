@@ -319,6 +319,17 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@fastify/proxy-addr",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@fastify/proxy-addr/LICENSE"
   },
+  "@isaacs/balanced-match@4.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/balanced-match",
+    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@isaacs/balanced-match",
+    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@isaacs/balanced-match/LICENSE.md"
+  },
+  "@isaacs/brace-expansion@5.0.0": {
+    "licenses": "MIT",
+    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@isaacs/brace-expansion",
+    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@isaacs/brace-expansion/LICENSE"
+  },
   "@isaacs/cliui@8.0.2": {
     "licenses": "ISC",
     "repository": "https://github.com/yargs/cliui",
@@ -522,24 +533,6 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@node-rs/xxhash",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@node-rs/xxhash/LICENSE"
   },
-  "@nodelib/fs.scandir@2.1.5": {
-    "licenses": "MIT",
-    "repository": "https://github.com/nodelib/nodelib/tree/master/packages/fs/fs.scandir",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@nodelib/fs.scandir",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@nodelib/fs.scandir/LICENSE"
-  },
-  "@nodelib/fs.stat@2.0.5": {
-    "licenses": "MIT",
-    "repository": "https://github.com/nodelib/nodelib/tree/master/packages/fs/fs.stat",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@nodelib/fs.stat",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@nodelib/fs.stat/LICENSE"
-  },
-  "@nodelib/fs.walk@1.2.8": {
-    "licenses": "MIT",
-    "repository": "https://github.com/nodelib/nodelib/tree/master/packages/fs/fs.walk",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@nodelib/fs.walk",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@nodelib/fs.walk/LICENSE"
-  },
   "@oxc-resolver/binding-linux-x64-gnu@5.3.0": {
     "licenses": "MIT",
     "repository": "https://github.com/oxc-project/oxc-resolver",
@@ -634,7 +627,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc-node/sourcemap-support",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc-node/sourcemap-support/LICENSE"
   },
-  "@swc/cli@0.7.7": {
+  "@swc/cli@0.7.8": {
     "licenses": "MIT",
     "repository": "https://github.com/swc-project/pkgs",
     "publisher": "강동윤",
@@ -783,7 +776,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/jest",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/jest/LICENSE"
   },
-  "@types/node@24.0.10": {
+  "@types/node@24.0.12": {
     "licenses": "MIT",
     "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@types/node",
@@ -814,7 +807,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@ungap/structured-clone",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@ungap/structured-clone/LICENSE"
   },
-  "@unrs/resolver-binding-linux-x64-gnu@1.11.0": {
+  "@unrs/resolver-binding-linux-x64-gnu@1.11.1": {
     "licenses": "MIT",
     "repository": "https://github.com/unrs/unrs-resolver",
     "publisher": "JounQin",
@@ -823,7 +816,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@unrs/resolver-binding-linux-x64-gnu",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@unrs/resolver-binding-linux-x64-gnu/README.md"
   },
-  "@unrs/resolver-binding-linux-x64-musl@1.11.0": {
+  "@unrs/resolver-binding-linux-x64-musl@1.11.1": {
     "licenses": "MIT",
     "repository": "https://github.com/unrs/unrs-resolver",
     "publisher": "JounQin",
@@ -1594,14 +1587,6 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/fast-fifo",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/fast-fifo/LICENSE"
   },
-  "fast-glob@3.3.3": {
-    "licenses": "MIT",
-    "repository": "https://github.com/mrmlnc/fast-glob",
-    "publisher": "Denis Malinochkin",
-    "url": "https://mrmlnc.com",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/fast-glob",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/fast-glob/LICENSE"
-  },
   "fast-json-stable-stringify@2.1.0": {
     "licenses": "MIT",
     "repository": "https://github.com/epoberezkin/fast-json-stable-stringify",
@@ -1674,6 +1659,14 @@
     "url": "http://wezfurlong.org",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/fb-watchman",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/fb-watchman/README.md"
+  },
+  "fdir@6.4.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/thecodrr/fdir",
+    "publisher": "thecodrr",
+    "email": "thecodrr@protonmail.com",
+    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/fdir",
+    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/fdir/LICENSE"
   },
   "file-type@19.6.0": {
     "licenses": "MIT",
@@ -2420,12 +2413,6 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/merge-stream",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/merge-stream/LICENSE"
   },
-  "merge2@1.4.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/teambition/merge2",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/merge2",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/merge2/LICENSE"
-  },
   "micromatch@4.0.8": {
     "licenses": "MIT",
     "repository": "https://github.com/micromatch/micromatch",
@@ -2861,15 +2848,6 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/pure-rand",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/pure-rand/LICENSE"
   },
-  "queue-microtask@1.2.3": {
-    "licenses": "MIT",
-    "repository": "https://github.com/feross/queue-microtask",
-    "publisher": "Feross Aboukhadijeh",
-    "email": "feross@feross.org",
-    "url": "https://feross.org",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/queue-microtask",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/queue-microtask/LICENSE"
-  },
   "quick-format-unescaped@4.0.4": {
     "licenses": "MIT",
     "repository": "https://github.com/davidmarkclements/quick-format",
@@ -3030,15 +3008,6 @@
     "url": "http://blog.izs.me/",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/rimraf",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/rimraf/LICENSE"
-  },
-  "run-parallel@1.2.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/feross/run-parallel",
-    "publisher": "Feross Aboukhadijeh",
-    "email": "feross@feross.org",
-    "url": "https://feross.org",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/run-parallel",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/run-parallel/LICENSE"
   },
   "safe-buffer@5.2.1": {
     "licenses": "MIT",
@@ -3428,6 +3397,13 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/through",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/through/LICENSE.APACHE2"
   },
+  "tinyglobby@0.2.14": {
+    "licenses": "MIT",
+    "repository": "https://github.com/SuperchupuDev/tinyglobby",
+    "publisher": "Superchupu",
+    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/tinyglobby",
+    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/tinyglobby/LICENSE"
+  },
   "tmpl@1.0.5": {
     "licenses": "BSD-3-Clause",
     "repository": "https://github.com/daaku/nodejs-tmpl",
@@ -3548,7 +3524,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/undici-types",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/undici-types/LICENSE"
   },
-  "unrs-resolver@1.11.0": {
+  "unrs-resolver@1.11.1": {
     "licenses": "MIT",
     "repository": "https://github.com/unrs/unrs-resolver",
     "publisher": "JounQin",
