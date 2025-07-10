@@ -1095,7 +1095,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/balanced-match",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/balanced-match/LICENSE.md"
   },
-  "bare-events@2.5.4": {
+  "bare-events@2.6.0": {
     "licenses": "Apache-2.0",
     "repository": "https://github.com/holepunchto/bare-events",
     "publisher": "Holepunch",
@@ -1467,7 +1467,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/eastasianwidth",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/eastasianwidth/README.md"
   },
-  "electron-to-chromium@1.5.180": {
+  "electron-to-chromium@1.5.181": {
     "licenses": "ISC",
     "repository": "https://github.com/kilian/electron-to-chromium",
     "publisher": "Kilian Valkhof",
