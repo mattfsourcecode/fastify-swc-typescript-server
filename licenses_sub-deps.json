@@ -249,7 +249,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/traverse",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/traverse/LICENSE"
   },
-  "@babel/types@7.28.0": {
+  "@babel/types@7.28.1": {
     "licenses": "MIT",
     "repository": "https://github.com/babel/babel",
     "publisher": "The Babel Team",
@@ -635,7 +635,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/cli",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/cli/LICENSE"
   },
-  "@swc/core-linux-x64-gnu@1.12.11": {
+  "@swc/core-linux-x64-gnu@1.12.14": {
     "licenses": "Apache-2.0 AND MIT",
     "repository": "https://github.com/swc-project/swc",
     "publisher": "강동윤",
@@ -643,7 +643,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/core-linux-x64-gnu",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/core-linux-x64-gnu/README.md"
   },
-  "@swc/core-linux-x64-musl@1.12.11": {
+  "@swc/core-linux-x64-musl@1.12.14": {
     "licenses": "Apache-2.0 AND MIT",
     "repository": "https://github.com/swc-project/swc",
     "publisher": "강동윤",
@@ -651,7 +651,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/core-linux-x64-musl",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@swc/core-linux-x64-musl/README.md"
   },
-  "@swc/core@1.12.11": {
+  "@swc/core@1.12.14": {
     "licenses": "Apache-2.0",
     "repository": "https://github.com/swc-project/swc",
     "publisher": "강동윤",
