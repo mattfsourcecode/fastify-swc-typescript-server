@@ -551,7 +551,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@pkgjs/parseargs",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@pkgjs/parseargs/LICENSE"
   },
-  "@pkgr/core@0.2.7": {
+  "@pkgr/core@0.2.8": {
     "licenses": "MIT",
     "repository": "https://github.com/un-ts/pkgr",
     "publisher": "JounQin",
@@ -2505,7 +2505,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/ms",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/ms/license.md"
   },
-  "napi-postinstall@0.3.0": {
+  "napi-postinstall@0.3.1": {
     "licenses": "MIT",
     "repository": "https://github.com/un-ts/napi-postinstall",
     "publisher": "JounQin",
@@ -3375,7 +3375,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/supports-preserve-symlinks-flag",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/supports-preserve-symlinks-flag/LICENSE"
   },
-  "synckit@0.11.8": {
+  "synckit@0.11.9": {
     "licenses": "MIT",
     "repository": "https://github.com/un-ts/synckit",
     "publisher": "JounQin",
