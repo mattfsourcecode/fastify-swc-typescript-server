@@ -103,7 +103,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/helper-validator-option",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/helper-validator-option/LICENSE"
   },
-  "@babel/helpers@7.27.6": {
+  "@babel/helpers@7.28.2": {
     "licenses": "MIT",
     "repository": "https://github.com/babel/babel",
     "publisher": "The Babel Team",
@@ -249,7 +249,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/traverse",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@babel/traverse/LICENSE"
   },
-  "@babel/types@7.28.1": {
+  "@babel/types@7.28.2": {
     "licenses": "MIT",
     "repository": "https://github.com/babel/babel",
     "publisher": "The Babel Team",
@@ -351,13 +351,13 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@istanbuljs/schema",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@istanbuljs/schema/LICENSE"
   },
-  "@jest/console@30.0.4": {
+  "@jest/console@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/console",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/console/LICENSE"
   },
-  "@jest/core@30.0.4": {
+  "@jest/core@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/core",
@@ -369,25 +369,25 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/diff-sequences",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/diff-sequences/LICENSE"
   },
-  "@jest/environment@30.0.4": {
+  "@jest/environment@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/environment",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/environment/LICENSE"
   },
-  "@jest/expect-utils@30.0.4": {
+  "@jest/expect-utils@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/expect-utils",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/expect-utils/LICENSE"
   },
-  "@jest/expect@30.0.4": {
+  "@jest/expect@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/expect",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/expect/LICENSE"
   },
-  "@jest/fake-timers@30.0.4": {
+  "@jest/fake-timers@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/fake-timers",
@@ -399,7 +399,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/get-type",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/get-type/LICENSE"
   },
-  "@jest/globals@30.0.4": {
+  "@jest/globals@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/globals",
@@ -411,19 +411,19 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/pattern",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/pattern/LICENSE"
   },
-  "@jest/reporters@30.0.4": {
+  "@jest/reporters@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/reporters",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/reporters/LICENSE"
   },
-  "@jest/schemas@30.0.1": {
+  "@jest/schemas@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/schemas",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/schemas/LICENSE"
   },
-  "@jest/snapshot-utils@30.0.4": {
+  "@jest/snapshot-utils@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/snapshot-utils",
@@ -435,25 +435,25 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/source-map",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/source-map/LICENSE"
   },
-  "@jest/test-result@30.0.4": {
+  "@jest/test-result@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/test-result",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/test-result/LICENSE"
   },
-  "@jest/test-sequencer@30.0.4": {
+  "@jest/test-sequencer@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/test-sequencer",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/test-sequencer/LICENSE"
   },
-  "@jest/transform@30.0.4": {
+  "@jest/transform@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/transform",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/transform/LICENSE"
   },
-  "@jest/types@30.0.1": {
+  "@jest/types@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@jest/types",
@@ -551,20 +551,13 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@pkgjs/parseargs",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@pkgjs/parseargs/LICENSE"
   },
-  "@pkgr/core@0.2.8": {
+  "@pkgr/core@0.2.9": {
     "licenses": "MIT",
     "repository": "https://github.com/un-ts/pkgr",
     "publisher": "JounQin",
     "email": "admin@1stg.me",
     "url": "https://www.1stG.me",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@pkgr/core"
-  },
-  "@sec-ant/readable-stream@0.4.1": {
-    "licenses": "MIT",
-    "repository": "https://github.com/Sec-ant/readable-stream",
-    "publisher": "Ze-Zheng Wu",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@sec-ant/readable-stream",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@sec-ant/readable-stream/LICENSE"
   },
   "@sinclair/typebox@0.34.38": {
     "licenses": "MIT",
@@ -689,6 +682,14 @@
     "publisher": "Szymon Marczak",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@szmarczak/http-timer",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@szmarczak/http-timer/LICENSE"
+  },
+  "@tokenizer/inflate@0.2.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Borewit/tokenizer-inflate",
+    "publisher": "Borewit",
+    "url": "https://github.com/Borewit",
+    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@tokenizer/inflate",
+    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@tokenizer/inflate/LICENSE"
   },
   "@tokenizer/token@0.3.0": {
     "licenses": "MIT",
@@ -825,7 +826,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@unrs/resolver-binding-linux-x64-musl",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@unrs/resolver-binding-linux-x64-musl/README.md"
   },
-  "@xhmikosr/archive-type@7.0.0": {
+  "@xhmikosr/archive-type@7.1.0": {
     "licenses": "MIT",
     "repository": "https://github.com/XhmikosR/archive-type",
     "publisher": "Kevin Mårtensson",
@@ -834,7 +835,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@xhmikosr/archive-type",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@xhmikosr/archive-type/license"
   },
-  "@xhmikosr/bin-check@7.0.3": {
+  "@xhmikosr/bin-check@7.1.0": {
     "licenses": "MIT",
     "repository": "https://github.com/XhmikosR/bin-check",
     "publisher": "Kevin Mårtensson",
@@ -843,7 +844,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@xhmikosr/bin-check",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@xhmikosr/bin-check/license"
   },
-  "@xhmikosr/bin-wrapper@13.0.6": {
+  "@xhmikosr/bin-wrapper@13.2.0": {
     "licenses": "MIT",
     "repository": "https://github.com/XhmikosR/bin-wrapper",
     "publisher": "Kevin Mårtensson",
@@ -852,7 +853,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@xhmikosr/bin-wrapper",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@xhmikosr/bin-wrapper/license"
   },
-  "@xhmikosr/decompress-tar@8.0.1": {
+  "@xhmikosr/decompress-tar@8.1.0": {
     "licenses": "MIT",
     "repository": "https://github.com/XhmikosR/decompress-tar",
     "publisher": "Kevin Mårtensson",
@@ -861,7 +862,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@xhmikosr/decompress-tar",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@xhmikosr/decompress-tar/license"
   },
-  "@xhmikosr/decompress-tarbz2@8.0.2": {
+  "@xhmikosr/decompress-tarbz2@8.1.0": {
     "licenses": "MIT",
     "repository": "https://github.com/XhmikosR/decompress-tarbz2",
     "publisher": "Kevin Mårtensson",
@@ -870,7 +871,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@xhmikosr/decompress-tarbz2",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@xhmikosr/decompress-tarbz2/license"
   },
-  "@xhmikosr/decompress-targz@8.0.1": {
+  "@xhmikosr/decompress-targz@8.1.0": {
     "licenses": "MIT",
     "repository": "https://github.com/XhmikosR/decompress-targz",
     "publisher": "Kevin Mårtensson",
@@ -879,7 +880,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@xhmikosr/decompress-targz",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@xhmikosr/decompress-targz/license"
   },
-  "@xhmikosr/decompress-unzip@7.0.0": {
+  "@xhmikosr/decompress-unzip@7.1.0": {
     "licenses": "MIT",
     "repository": "https://github.com/XhmikosR/decompress-unzip",
     "publisher": "Kevin Mårtensson",
@@ -888,7 +889,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@xhmikosr/decompress-unzip",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@xhmikosr/decompress-unzip/license"
   },
-  "@xhmikosr/decompress@10.0.1": {
+  "@xhmikosr/decompress@10.2.0": {
     "licenses": "MIT",
     "repository": "https://github.com/XhmikosR/decompress",
     "publisher": "Kevin Mårtensson",
@@ -897,7 +898,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@xhmikosr/decompress",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/@xhmikosr/decompress/license"
   },
-  "@xhmikosr/downloader@15.0.2": {
+  "@xhmikosr/downloader@15.2.0": {
     "licenses": "MIT",
     "repository": "https://github.com/XhmikosR/download",
     "publisher": "Kevin Mårtensson",
@@ -1053,7 +1054,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/b4a",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/b4a/LICENSE"
   },
-  "babel-jest@30.0.4": {
+  "babel-jest@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/babel-jest",
@@ -1072,7 +1073,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/babel-plugin-jest-hoist",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/babel-plugin-jest-hoist/LICENSE"
   },
-  "babel-preset-current-node-syntax@1.1.0": {
+  "babel-preset-current-node-syntax@1.2.0": {
     "licenses": "MIT",
     "repository": "https://github.com/nicolo-ribaudo/babel-preset-current-node-syntax",
     "publisher": "Nicolò Ribaudo",
@@ -1110,6 +1111,24 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/base64-js",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/base64-js/LICENSE"
   },
+  "bin-version-check@5.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/bin-version-check",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/bin-version-check",
+    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/bin-version-check/license"
+  },
+  "bin-version@6.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/bin-version",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/bin-version",
+    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/bin-version/license"
+  },
   "binary-extensions@2.3.0": {
     "licenses": "MIT",
     "repository": "https://github.com/sindresorhus/binary-extensions",
@@ -1118,24 +1137,6 @@
     "url": "https://sindresorhus.com",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/binary-extensions",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/binary-extensions/license"
-  },
-  "binary-version-check@6.1.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/sindresorhus/binary-version-check",
-    "publisher": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "https://sindresorhus.com",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/binary-version-check",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/binary-version-check/license"
-  },
-  "binary-version@7.1.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/sindresorhus/binary-version",
-    "publisher": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "https://sindresorhus.com",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/binary-version",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/binary-version/license"
   },
   "brace-expansion@1.1.12": {
     "licenses": "MIT",
@@ -1228,7 +1229,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/camelcase",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/camelcase/license"
   },
-  "caniuse-lite@1.0.30001727": {
+  "caniuse-lite@1.0.30001731": {
     "licenses": "CC-BY-4.0",
     "repository": "https://github.com/browserslist/caniuse-lite",
     "publisher": "Ben Briggs",
@@ -1343,15 +1344,6 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/content-disposition",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/content-disposition/LICENSE"
   },
-  "convert-hrtime@5.0.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/sindresorhus/convert-hrtime",
-    "publisher": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "https://sindresorhus.com",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/convert-hrtime",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/convert-hrtime/license"
-  },
   "convert-source-map@2.0.0": {
     "licenses": "MIT",
     "repository": "https://github.com/thlorenz/convert-source-map",
@@ -1423,7 +1415,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/deepmerge",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/deepmerge/license.txt"
   },
-  "defaults@3.0.0": {
+  "defaults@2.0.2": {
     "licenses": "MIT",
     "repository": "https://github.com/sindresorhus/node-defaults",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/defaults",
@@ -1476,7 +1468,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/eastasianwidth",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/eastasianwidth/README.md"
   },
-  "electron-to-chromium@1.5.187": {
+  "electron-to-chromium@1.5.193": {
     "licenses": "ISC",
     "repository": "https://github.com/kilian/electron-to-chromium",
     "publisher": "Kilian Valkhof",
@@ -1549,7 +1541,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/exit-x",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/exit-x/LICENSE-MIT"
   },
-  "expect@30.0.4": {
+  "expect@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/expect",
@@ -1677,7 +1669,15 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/fdir",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/fdir/LICENSE"
   },
-  "file-type@19.6.0": {
+  "fflate@0.8.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/101arrowz/fflate",
+    "publisher": "Arjun Barrett",
+    "email": "arjunbarrett@gmail.com",
+    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/fflate",
+    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/fflate/LICENSE"
+  },
+  "file-type@20.5.0": {
     "licenses": "MIT",
     "repository": "https://github.com/sindresorhus/file-type",
     "publisher": "Sindre Sorhus",
@@ -1729,7 +1729,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/find-up",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/find-up/license"
   },
-  "find-versions@6.0.0": {
+  "find-versions@5.1.0": {
     "licenses": "MIT",
     "repository": "https://github.com/sindresorhus/find-versions",
     "publisher": "Sindre Sorhus",
@@ -1770,15 +1770,6 @@
     "email": "raynos2@gmail.com",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/function-bind",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/function-bind/LICENSE"
-  },
-  "function-timeout@1.0.2": {
-    "licenses": "MIT",
-    "repository": "https://github.com/sindresorhus/function-timeout",
-    "publisher": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "https://sindresorhus.com",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/function-timeout",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/function-timeout/license"
   },
   "gensync@1.0.0-beta.2": {
     "licenses": "MIT",
@@ -2107,31 +2098,31 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jackspeak",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jackspeak/LICENSE.md"
   },
-  "jest-changed-files@30.0.2": {
+  "jest-changed-files@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-changed-files",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-changed-files/LICENSE"
   },
-  "jest-circus@30.0.4": {
+  "jest-circus@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-circus",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-circus/LICENSE"
   },
-  "jest-cli@30.0.4": {
+  "jest-cli@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-cli",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-cli/LICENSE"
   },
-  "jest-config@30.0.4": {
+  "jest-config@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-config",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-config/LICENSE"
   },
-  "jest-diff@30.0.4": {
+  "jest-diff@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-diff",
@@ -2143,7 +2134,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-docblock",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-docblock/LICENSE"
   },
-  "jest-each@30.0.2": {
+  "jest-each@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "publisher": "Matt Phillips",
@@ -2151,37 +2142,37 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-each",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-each/LICENSE"
   },
-  "jest-environment-node@30.0.4": {
+  "jest-environment-node@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-environment-node",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-environment-node/LICENSE"
   },
-  "jest-haste-map@30.0.2": {
+  "jest-haste-map@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-haste-map",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-haste-map/LICENSE"
   },
-  "jest-leak-detector@30.0.2": {
+  "jest-leak-detector@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-leak-detector",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-leak-detector/LICENSE"
   },
-  "jest-matcher-utils@30.0.4": {
+  "jest-matcher-utils@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-matcher-utils",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-matcher-utils/LICENSE"
   },
-  "jest-message-util@30.0.2": {
+  "jest-message-util@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-message-util",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-message-util/LICENSE"
   },
-  "jest-mock@30.0.2": {
+  "jest-mock@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-mock",
@@ -2199,61 +2190,61 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-regex-util",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-regex-util/LICENSE"
   },
-  "jest-resolve-dependencies@30.0.4": {
+  "jest-resolve-dependencies@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-resolve-dependencies",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-resolve-dependencies/LICENSE"
   },
-  "jest-resolve@30.0.2": {
+  "jest-resolve@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-resolve",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-resolve/LICENSE"
   },
-  "jest-runner@30.0.4": {
+  "jest-runner@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-runner",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-runner/LICENSE"
   },
-  "jest-runtime@30.0.4": {
+  "jest-runtime@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-runtime",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-runtime/LICENSE"
   },
-  "jest-snapshot@30.0.4": {
+  "jest-snapshot@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-snapshot",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-snapshot/LICENSE"
   },
-  "jest-util@30.0.2": {
+  "jest-util@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-util",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-util/LICENSE"
   },
-  "jest-validate@30.0.2": {
+  "jest-validate@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-validate",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-validate/LICENSE"
   },
-  "jest-watcher@30.0.4": {
+  "jest-watcher@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-watcher",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-watcher/LICENSE"
   },
-  "jest-worker@30.0.2": {
+  "jest-worker@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-worker",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest-worker/LICENSE"
   },
-  "jest@30.0.4": {
+  "jest@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/jest",
@@ -2505,7 +2496,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/ms",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/ms/license.md"
   },
-  "napi-postinstall@0.3.1": {
+  "napi-postinstall@0.3.2": {
     "licenses": "MIT",
     "repository": "https://github.com/un-ts/napi-postinstall",
     "publisher": "JounQin",
@@ -2755,14 +2746,6 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/path-scurry",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/path-scurry/LICENSE.md"
   },
-  "peek-readable@5.4.2": {
-    "licenses": "MIT",
-    "repository": "https://github.com/Borewit/peek-readable",
-    "publisher": "Borewit",
-    "url": "https://github.com/Borewit",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/peek-readable",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/peek-readable/LICENSE"
-  },
   "pend@1.2.0": {
     "licenses": "MIT",
     "repository": "https://github.com/andrewrk/node-pend",
@@ -2836,7 +2819,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/pkg-dir",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/pkg-dir/license"
   },
-  "pretty-format@30.0.2": {
+  "pretty-format@30.0.5": {
     "licenses": "MIT",
     "repository": "https://github.com/jestjs/jest",
     "publisher": "James Kyle",
@@ -3341,22 +3324,13 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/strip-json-comments",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/strip-json-comments/license"
   },
-  "strtok3@9.1.1": {
+  "strtok3@10.3.4": {
     "licenses": "MIT",
     "repository": "https://github.com/Borewit/strtok3",
     "publisher": "Borewit",
     "url": "https://github.com/Borewit",
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/strtok3",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/strtok3/LICENSE"
-  },
-  "super-regex@1.0.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/sindresorhus/super-regex",
-    "publisher": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "https://sindresorhus.com",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/super-regex",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/super-regex/license"
+    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/strtok3/LICENSE.txt"
   },
   "supports-color@5.5.0": {
     "licenses": "MIT",
@@ -3375,7 +3349,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/supports-preserve-symlinks-flag",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/supports-preserve-symlinks-flag/LICENSE"
   },
-  "synckit@0.11.9": {
+  "synckit@0.11.11": {
     "licenses": "MIT",
     "repository": "https://github.com/un-ts/synckit",
     "publisher": "JounQin",
@@ -3424,15 +3398,6 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/through",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/through/LICENSE.APACHE2"
   },
-  "time-span@5.1.0": {
-    "licenses": "MIT",
-    "repository": "https://github.com/sindresorhus/time-span",
-    "publisher": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "https://sindresorhus.com",
-    "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/time-span",
-    "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/time-span/license"
-  },
   "tinyglobby@0.2.14": {
     "licenses": "MIT",
     "repository": "https://github.com/SuperchupuDev/tinyglobby",
@@ -3464,7 +3429,7 @@
     "path": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/toad-cache",
     "licenseFile": "/home/runner/work/fastify-swc-typescript-server/fastify-swc-typescript-server/node_modules/toad-cache/LICENSE"
   },
-  "token-types@6.0.3": {
+  "token-types@6.0.4": {
     "licenses": "MIT",
     "repository": "https://github.com/Borewit/token-types",
     "publisher": "Borewit",
